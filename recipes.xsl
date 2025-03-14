@@ -6,7 +6,6 @@
         <html>
         <head>
             <title>Recipe Collection</title>
-            <link rel="stylesheet" type="text/css" href="styles.css"/>
             <style>
             table { border-collapse: collapse; width: 100%; }
                 th, td { border: 1px solid black; padding: 8px; text-align: left; }
