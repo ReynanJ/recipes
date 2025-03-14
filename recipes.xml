@@ -1,85 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <recipes>
     <recipe id="1">
-        <recipeTitle>Jollibee Chickenjoy</recipeTitle>
+        <recipeTitle>Classic Chicken Inasal</recipeTitle>
         <ingredients>
-            <ingredient>1 kg chicken, cut into pieces</ingredient>
-            <ingredient>2 cups all-purpose flour</ingredient>
-            <ingredient>1/2 cup cornstarch</ingredient>
-            <ingredient>2 tbsp garlic powder</ingredient>
-            <ingredient>2 tbsp onion powder</ingredient>
-            <ingredient>1 tbsp paprika</ingredient>
-            <ingredient>1 tbsp salt</ingredient>
-            <ingredient>1/2 tbsp ground black pepper</ingredient>
-            <ingredient>1 cup buttermilk</ingredient>
-            <ingredient>1 egg</ingredient>
-            <ingredient>Cooking oil for frying</ingredient>
+            <ingredient>1 kg chicken (legs or thighs), butterflied</ingredient>
+            <ingredient>1/4 cup lemongrass (tanglad), chopped</ingredient>
+            <ingredient>3 tbsp ginger, minced</ingredient>
+            <ingredient>5 cloves garlic, minced</ingredient>
+            <ingredient>1/4 cup vinegar</ingredient>
+            <ingredient>2 tbsp calamansi or lime juice</ingredient>
+            <ingredient>3 tbsp brown sugar</ingredient>
+            <ingredient>2 tbsp fish sauce (patis)</ingredient>
+            <ingredient>1/4 cup annatto (achuete) oil</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1/2 tsp ground black pepper</ingredient>
         </ingredients>
-        <cookingInstructions>In a bowl, mix buttermilk and egg. Soak chicken pieces for 3 hours. In a separate bowl, combine flour, cornstarch, garlic powder, onion powder, paprika, salt, and black pepper. Coat each chicken piece in the dry mixture, then deep fry in hot oil at 350°F (175°C) until golden brown and crispy. Lastly, drain excess oil and serve hot.</cookingInstructions>
+        <cookingInstructions>In a large bowl, combine lemongrass, ginger, garlic, vinegar, calamansi juice, brown sugar, fish sauce, salt, and pepper. Marinate chicken for at least 3 hours or overnight. Remove chicken from marinade. Then, grill chicken over medium heat, basting frequently with annatto oil. Lastly, grill until chicken is fully cooked with nice char marks, about 20-25 minutes, turning occasionally.</cookingInstructions>
     </recipe>
-
     <recipe id="2">
-        <recipeTitle>Jollibee Jolly Spaghetti</recipeTitle>
+        <recipeTitle>Spicy Paa Inasal (Leg Inasal)</recipeTitle>
         <ingredients>
-            <ingredient>500g spaghetti noodles</ingredient>
-            <ingredient>1/2 kg ground pork</ingredient>
-            <ingredient>2 cups banana ketchup</ingredient>
-            <ingredient>1 cup tomato sauce</ingredient>
-            <ingredient>1/2 cup evaporated milk</ingredient>
-            <ingredient>1/2 cup sugar</ingredient>
-            <ingredient>1/2 cup hotdog slices</ingredient>
-            <ingredient>1 onion, chopped</ingredient>
-            <ingredient>4 cloves garlic, minced</ingredient>
-            <ingredient>1/2 tbsp salt</ingredient>
-            <ingredient>1/2 tbsp ground black pepper</ingredient>
-            <ingredient>1 cup grated cheese</ingredient>
+            <ingredient>6 chicken leg quarters</ingredient>
+            <ingredient>1/3 cup vinegar</ingredient>
+            <ingredient>3 stalks lemongrass, bruised and chopped</ingredient>
+            <ingredient>5 cloves garlic, crushed</ingredient>
+            <ingredient>2 tbsp ginger, sliced</ingredient>
+            <ingredient>3 tbsp brown sugar</ingredient>
+            <ingredient>1/4 cup annatto oil</ingredient>
+            <ingredient>3 tbsp soy sauce</ingredient>
+            <ingredient>2 tsp chili flakes (or to taste)</ingredient>
+            <ingredient>1 tsp ground black pepper</ingredient>
         </ingredients>
-        <cookingInstructions>Cook spaghetti noodles according to package instructions, then set aside. In a pan, sauté garlic and onion, then add ground pork and cook until browned. Add hotdogs, banana ketchup, tomato sauce, sugar, evaporated milk, salt, and pepper. Simmer for 10 minutes. Lastly, pour sauce over cooked spaghetti and top with grated cheese.</cookingInstructions>
+        <cookingInstructions>Blend lemongrass, garlic, ginger, vinegar, soy sauce, brown sugar, chili flakes, and black pepper in a food processor. Then, marinate chicken legs in the mixture for at least 4 hours. Prepare the grill to medium heat, then grill chicken while basting with annatto oil. Lastly, cook until internal temperature reaches 165°F (74°C), about 30-35 minutes.</cookingInstructions>
     </recipe>
-
     <recipe id="3">
-        <recipeTitle>Jollibee Burger Steak</recipeTitle>
+        <recipeTitle>Inasal na Pecho (Breast Inasal)</recipeTitle>
         <ingredients>
-            <ingredient>500g ground beef</ingredient>
-            <ingredient>1/4 cup breadcrumbs</ingredient>
-            <ingredient>1 egg</ingredient>
-            <ingredient>1 tbsp soy sauce</ingredient>
-            <ingredient>1/2 tsp salt</ingredient>
-            <ingredient>1/2 tsp black pepper</ingredient>
-            <ingredient>2 tbsp butter</ingredient>
-            <ingredient>1/2 cup sliced mushrooms</ingredient>
-            <ingredient>1 cup beef broth</ingredient>
-            <ingredient>1 tbsp cornstarch dissolved in 1 tbsp water</ingredient>
+            <ingredient>4 large chicken breasts, boneless</ingredient>
+            <ingredient>1/4 cup coconut vinegar</ingredient>
+            <ingredient>3 tbsp lemongrass paste</ingredient>
+            <ingredient>4 cloves garlic, minced</ingredient>
+            <ingredient>2 tbsp ginger, grated</ingredient>
+            <ingredient>3 tbsp calamansi juice</ingredient>
+            <ingredient>2 tbsp brown sugar</ingredient>
+            <ingredient>1/4 cup annatto oil</ingredient>
+            <ingredient>1 tsp turmeric powder</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1/2 tsp pepper</ingredient>
         </ingredients>
-        <cookingInstructions>Mix ground beef, breadcrumbs, egg, soy sauce, salt, and pepper. Form into patties and pan-fry until cooked. In the same pan, melt butter and sauté mushrooms. Add beef broth and cornstarch mixture, then stir until thickened. Lastly, pour gravy over burger patties and serve hot.</cookingInstructions>
+        <cookingInstructions>Pound chicken breasts to even thickness. Mix vinegar, lemongrass, garlic, ginger, calamansi juice, brown sugar, turmeric, salt, and pepper to make marinade. Then, marinate chicken for 2-3 hours. Prepare grill to medium-high heat and grill chicken for 5-6 minutes per side, basting with annatto oil. Lastly, ensure chicken is fully cooked but still juicy.</cookingInstructions>
     </recipe>
-
     <recipe id="4">
-        <recipeTitle>Jollibee Peach Mango Pie</recipeTitle>
+        <recipeTitle>Inasal na Pakpak (Wing Inasal)</recipeTitle>
         <ingredients>
-            <ingredient>2 cups ripe mangoes, diced</ingredient>
-            <ingredient>1 cup canned peaches, chopped</ingredient>
-            <ingredient>1/4 cup sugar</ingredient>
-            <ingredient>1 tbsp cornstarch</ingredient>
-            <ingredient>1/2 tsp vanilla extract</ingredient>
-            <ingredient>8 store-bought pastry sheets</ingredient>
-            <ingredient>1 egg, beaten</ingredient>
-            <ingredient>Cooking oil for frying</ingredient>
+            <ingredient>1 kg chicken wings</ingredient>
+            <ingredient>5 stalks lemongrass, white parts only, minced</ingredient>
+            <ingredient>6 cloves garlic, crushed</ingredient>
+            <ingredient>2 tbsp ginger, grated</ingredient>
+            <ingredient>1/4 cup cane vinegar</ingredient>
+            <ingredient>3 tbsp calamansi juice</ingredient>
+            <ingredient>2 tbsp brown sugar</ingredient>
+            <ingredient>2 tbsp fish sauce</ingredient>
+            <ingredient>1/3 cup annatto oil</ingredient>
+            <ingredient>1/2 tsp black pepper</ingredient>
+            <ingredient>1 tsp salt</ingredient>
         </ingredients>
-        <cookingInstructions>In a saucepan, cook mangoes, peaches, sugar, and vanilla over medium heat. Add cornstarch to thicken, then let cool. Spoon filling onto pastry sheets, fold into a pocket, and seal edges. Brush with egg wash. Lastly, deep fry until golden brown and serve warm.</cookingInstructions>
+        <cookingInstructions>Combine lemongrass, garlic, ginger, vinegar, calamansi juice, brown sugar, fish sauce, salt, and pepper in a large bowl. Add chicken wings and marinate for at least 4 hours. Then, prepare grill to medium heat. Grill wings for 20-25 minutes, turning occasionally and basting with annatto oil. Lastly, serve hot with a side of spiced vinegar.</cookingInstructions>
     </recipe>
-
     <recipe id="5">
-        <recipeTitle>Jollibee Jolly Hotdog</recipeTitle>
+        <recipeTitle>Inasal na Leeg (Neck Inasal)</recipeTitle>
         <ingredients>
-            <ingredient>4 jumbo hotdogs</ingredient>
-            <ingredient>4 hotdog buns</ingredient>
-            <ingredient>1/2 cup banana ketchup</ingredient>
-            <ingredient>1/2 cup mayonnaise</ingredient>
-            <ingredient>1/2 cup grated cheese</ingredient>
-            <ingredient>1/4 cup minced onions</ingredient>
-            <ingredient>1/4 cup sweet pickle relish</ingredient>
+            <ingredient>1 kg chicken necks, cleaned</ingredient>
+            <ingredient>4 stalks lemongrass, bruised and chopped</ingredient>
+            <ingredient>1/4 cup vinegar</ingredient>
+            <ingredient>4 cloves garlic, minced</ingredient>
+            <ingredient>2 tbsp ginger, minced</ingredient>
+            <ingredient>3 tbsp annatto seeds soaked in 1/4 cup oil</ingredient>
+            <ingredient>2 tbsp brown sugar</ingredient>
+            <ingredient>2 tbsp soy sauce</ingredient>
+            <ingredient>1 tsp salt</ingredient>
+            <ingredient>1/2 tsp ground black pepper</ingredient>
         </ingredients>
-        <cookingInstructions>Grill or pan-fry hotdogs until cooked. Place each hotdog in a bun. Top with banana ketchup, mayonnaise, grated cheese, onions, and sweet pickle relish. Lastly, serve warm and enjoy.</cookingInstructions>
+        <cookingInstructions>Mix lemongrass, vinegar, garlic, ginger, brown sugar, soy sauce, salt, and pepper to create marinade. Marinate chicken necks for 3-4 hours or overnight. Then, thread necks onto skewers if desired. Grill over medium heat for about 15-20 minutes, turning frequently and basting with annatto oil. Lastly, serve with a dipping sauce of vinegar, chili, and garlic.</cookingInstructions>
     </recipe>
 </recipes>
